@@ -10,3 +10,4 @@ He hecho unos gráficos para entenderlo mejor.
 ## Foco Relé Shelly 1
 
 ![Piscina domotizada](assets/rele_shelly_1.png)
+![Piscina domotizada](assets/rele_shelly_1_2.png)
