@@ -6,4 +6,5 @@ de la instalación original. De esta manera puedes manejarla desde el móvil, ho
 de la manera habitual.
 He hecho unos gráficos para entenderlo mejor.
 
+---
 ## Foco Relé Shelly 1
